@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'easesemi';
+    src:    url('assets/fonts/semi.woff');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'easebold';
+    src:    url('assets/fonts/bold.woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'easereg';
+    src:    url('assets/fonts/regular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html{
+    margin:0;
+    font-size: 10px;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1.6rem;
+    margin: 0;
+    margin-left: -1;
+    padding: 5rem;
+}
+
+main{
+    width: 98vw;
+    margin: 1rem;
+}
+
+
+.date-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 93vh;
+    font-size: 5rem;
+}
+
+.footer{
+    color: #D9D9D9;
+}
+
+.hidden{
+    display:none;
+}
+
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2rem;
+}
+
+.button-container button {
+    font-family: 'easesemi';
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+/* Hover effect */
+.button-container button:hover {
+   color: #b2c7f2; /* Darker Green */
+}
+
+
+.description{
+    font-family: 'easereg';
+    line-height: 1.2rem;
+    padding-bottom: 2rem;
+}

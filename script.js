@@ -14,13 +14,26 @@ document.addEventListener("DOMContentLoaded", function() {
             if(!allLocations.includes(item.location) && item.location){
                 allLocations.push(item.location)
             }
-           let description = document.createElement("div")
-           description.innerText = item.description
-           description.setAttribute("data-weight", item.weight)
-           description.classList.add("description")
-           description.setAttribute("data-location", item.location)
-           description.classList.add("description")
-           descriptionContainer.append(description)
+        
+            let dateDescriptionWrapper = document.createElement("div"); 
+            dateDescriptionWrapper.classList.add("date-description-wrapper");
+            
+            let date = document.createElement("div");
+            date.innerText = item.date;
+            date.classList.add("date");
+            
+            let description = document.createElement("div");
+            description.innerText = item.description;
+            description.setAttribute("data-weight", item.weight);
+            description.setAttribute("data-location", item.location);
+            description.classList.add("description");
+            
+            dateDescriptionWrapper.appendChild(date); 
+            dateDescriptionWrapper.appendChild(description)
+            
+            descriptionContainer.appendChild(dateDescriptionWrapper); 
+        
+         
         })
 
         let allButton = document.createElement("button")
@@ -29,8 +42,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
         function showAllDescriptions() {
             let allDescriptions = document.querySelectorAll(".description");
+            let allDates = document.querySelectorAll(".date")
             allDescriptions.forEach((description) => {
                 description.classList.remove("hidden");
+            });
+            allDates.forEach((date) => {
+                date.classList.remove("hidden");
             });
         }
         allButton.addEventListener("click", showAllDescriptions);
@@ -44,16 +61,17 @@ document.addEventListener("DOMContentLoaded", function() {
             buttonContainer.append(weightButton)
 
             weightButton.addEventListener("click", (e)=>{
-                console.log(e.target.dataset.weight)
                 let buttonWeight = e.target.dataset.weight
                 let allDescriptions = document.querySelectorAll(".description")
+                let allDates = document.querySelectorAll(".date");
                 allDescriptions.forEach((description, index)=>{
-                    console.log(description)
                     if (description.dataset.weight == buttonWeight){
                         description.classList.remove("hidden")
+                        allDates[index].classList.remove("hidden")
                     }
                     else{
                         description.classList.add("hidden")
+                        allDates[index].classList.add("hidden")
                     }
                 })
             })
@@ -69,15 +87,21 @@ document.addEventListener("DOMContentLoaded", function() {
                 console.log(e.target.dataset.location)
                 let buttonLocation = e.target.dataset.location
                 let allDescriptions = document.querySelectorAll(".description")
+                let allDates = document.querySelectorAll(".date");
                 allDescriptions.forEach((description, index)=>{
                     console.log(description)
                     if (description.dataset.location == buttonLocation){
                         description.classList.remove("hidden")
+                        allDates[index].classList.remove("hidden")
+   
                     }
                     else{
                         description.classList.add("hidden")
+                        allDates[index].classList.add("hidden")
+
                     }
                 })
+               
             })
         })
 
@@ -88,9 +112,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
         function hideAllDescriptions() {
             let allDescriptions = document.querySelectorAll(".description");
+            let allDates= document.querySelectorAll(".date")
+           
             allDescriptions.forEach((description) => {
             description.classList.add("hidden");
             });
+
+            allDates.forEach((date) => {
+                date.classList.add("hidden");
+
+            })
+           
+            
         }
         noneButton.addEventListener("click", hideAllDescriptions);
 

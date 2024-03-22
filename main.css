@@ -72,14 +72,27 @@ main{
     transition-duration: 0.4s;
 }
 
-/* Hover effect */
 .button-container button:hover {
-   color: #b2c7f2; /* Darker Green */
+   color: #b2c7f2; 
 }
 
+.description-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+    grid-gap: 20px; 
+    justify-content: center; 
+}
 
 .description{
     font-family: 'easereg';
     line-height: 1.2rem;
     padding-bottom: 2rem;
+    overflow-x: hidden;
+ 
+}
+
+
+.date{
+    font-family: 'easesemi';
+    line-height: 2rem;
 }

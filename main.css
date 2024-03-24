@@ -37,6 +37,21 @@ main{
     margin: 1rem;
 }
 
+.heading-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    height: 100vh;
+}
+
+.heading{
+    color: #D9D9D9;
+    font-family: 'easebold';
+    font-size: 27rem;
+    animation: fadeIn 2s ease-in forwards, textColorChangeGray 300s infinite;
+  
+}
 
 .date-container{
     display: flex;
@@ -48,6 +63,14 @@ main{
 
 .footer{
     color: #D9D9D9;
+    font-family: 'easesemi';
+    font-size: 0.9rem;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.3rem
 }
 
 .hidden{
@@ -58,7 +81,7 @@ main{
 .button-container{
     display: flex;
     justify-content: space-between;
-    padding-bottom: 2rem;
+    padding-bottom: 4rem;
 }
 
 .button-container button {
@@ -73,7 +96,7 @@ main{
 }
 
 .button-container button:hover {
-   color: #b2c7f2; 
+   color: #F44840; 
 }
 
 .description-container {
@@ -86,6 +109,7 @@ main{
 .description{
     font-family: 'easereg';
     line-height: 1.2rem;
+    font-size: 1rem;
     padding-bottom: 2rem;
     overflow-x: hidden;
     color:black;
@@ -123,4 +147,29 @@ body {
     100% {color: black; }
 }
 
+@keyframes textColorChangeGray{
+    0%{color: #D9D9D9; }
+    50% {color: #F44840; }
+    100% {color: #D9D9D9; }
+}
 
+@keyframes fadeIn {
+    from {
+        opacity: 0; /* Starting opacity */
+    }
+    to {
+        opacity: 1; /* Ending opacity */
+    }
+}
+
+
+
+@media screen and (max-width: 499px){
+    .button-container button {
+        font-size: 1rem;
+    }
+   .description, .date{
+    font-size: 0.8rem;
+    line-height: 1rem;
+   }
+}

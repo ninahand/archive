@@ -132,4 +132,28 @@ document.addEventListener("DOMContentLoaded", function() {
     
 });
 
+// Function to generate random text
+function generateRandomText() {
+    var texts = ["January 5", "January 12", "January 19", "January 26", "February 2"]; // Array of possible texts
+    return texts[Math.floor(Math.random() * texts.length)]; // Randomly select a text
+}
+
+// Function to update button text
+function updateButtonText() {
+    var button = document.getElementById("changeButton");
+    button.innerHTML = generateRandomText();
+}
+
+// Function to handle button click
+function handleClick() {
+    clearInterval(interval); // Stop text change interval
+    // Do something else here
+}
+
+// Attach event listener to button
+document.getElementById("changeButton").addEventListener("click", handleClick);
+
+// Start changing text at intervals
+var interval = setInterval(updateButtonText, 300); // Change text every second
+
 //weightButton.dataset.weight = weight

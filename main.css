@@ -78,7 +78,7 @@ main{
 
 .description-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* looked online to find how to make a grid responsive w/o media queries */
     grid-gap: 20px; 
     justify-content: center; 
 }
@@ -88,6 +88,8 @@ main{
     line-height: 1.2rem;
     padding-bottom: 2rem;
     overflow-x: hidden;
+    color:black;
+    animation: textColorChange 300s infinite;
  
 }
 
@@ -95,4 +97,30 @@ main{
 .date{
     font-family: 'easesemi';
     line-height: 2rem;
+    color: black;
+    animation: textColorChange 300s infinite;
 }
+
+.low-opacity {
+    opacity: 0.3;
+}
+
+body {
+    color: #FFFFFF;
+    animation: backgroundColorChange 300s infinite;
+
+}
+
+@keyframes backgroundColorChange {
+    0%{ background-color: #FFFFFF; }
+    50% { background-color: #B5CBCE; }
+    100% { background-color: #FFFFFF; }
+}
+
+@keyframes textColorChange {
+    0%{color: black; }
+    50% {color: #F44840; }
+    100% {color: black; }
+}
+
+

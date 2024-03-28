@@ -167,13 +167,33 @@ body {
 
 
 @media screen and (max-width: 480px){
+    .button-container{
+        width: 80vw;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        
+    }
     .button-container button {
         font-size: 1rem;
+        padding: 0.25rem;
+        margin: 0.3rem;
+        background-color: rgba(217, 217, 217, .20);
+        border-radius: 15%;
     }
-   .description, .date, .footer{
+   .date, .footer{
     font-size: 0.8rem;
     line-height: 1rem;
    }
+   .description{
+    font-size: 0.8rem;
+    line-height: 1rem;
+    height: 1vh;
+    overflow: hidden;
+    transition: 400ms all ease-in-out
+   }
+
+
    .heading{
     font-size: 5rem;
     position: relative;
@@ -186,12 +206,16 @@ body {
     height: auto;
     padding-left: 0.3rem;
    }
-   .button-container{
-    width: 80vw; 
-    display: flex;
-
-   }
    .description-container{
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
+    width: 90vw;
+
+  
+   }
+  
+   .description:hover{
+    font-size: 0.8rem;
+    height: 30vh;
+    overflow: visible;
    }
 }

@@ -160,19 +160,3 @@ document.addEventListener("DOMContentLoaded", function() {
     
 });
 
-function generateDate() {
-    var texts = ["January 5", "January 12", "January 19", "January 26", "February 2"]; 
-    return texts[Math.floor(Math.random() * texts.length)]; 
-}
-
-function changeChaosText() {
-    var button = document.getElementById("chaosButton");
-    button.innerHTML = generateDate();
-}
-
-
-var interval = setInterval(changeChaosText, 300); 
-
-document.getElementById("chaosButton").addEventListener("click", userClick);
-
-

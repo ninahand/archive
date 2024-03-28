@@ -1,183 +1,444 @@
 [
     {
+        "date": "January 3",
+        "day": "Tuesday",
+        "location": "Chicago",
+        "weight": "Light",
+        "description" : "Went to the Pig with Cali in the morning– sat upstairs and talked, then went home. LIly called, we caught up, and then called Nanny/Pop Pop with Dad. Katy and I went shopping, then back home and rested for a bit. Then to dinner in Chinatown with Mom and Katy at a hot pot place. Drove to Clare’s after for my birthday celebration! Guin, Clare, Annika, Steven, Theo, and Penelope there. Cake, Scattergories, gifts, etc. Went home, bed."
+    },
+    {
         "date": "January 5",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Heavy",
         "description" : "Woke up late, went to Sofia’s (gave my birthday gift- books!). Then we went to get coffee/chat at Cafe Mustache. Then to facial, then home, dinner, knit, and went on a drive with Nolan and Sofie. Ended up at Devil Dawgs across the street from Jones. Then Nolan and I went to Oliver’s with Cali, Graeme, and Lydia (Oliver’s ex). Drove home with Cali, knit, and watched the last episode of Bojack."
     },
     {
+        "date": "January 10",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "Light",
+        "description" : "Lazy day by pool/in room, kitting/reading/swimming in ocean. Sushi for dinner with Howard and Robert. Bed."
+    },
+    {
         "date": "January 12",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Read by the pool with Katy, Mom, and Dad. Then to the airport and plane home (just with Katy, Mom and Dad stayed a bit longer). Plane ride uneventful. Had a small drink and chat with Katy’s friends who came over for wine night."
     },
     {
+        "date": "January 17",
+        "day": "Tuesday",
+        "location": "Chicago",
+        "weight": "Light",
+        "description" : "Woke up, had breakfast, made a patch for Adina. Went thrifting with Penelope at Irving/Kedzie, then to La Boulangerie after for coffee and croissants. She showed me her demos for the record in the car. Stopped by Felt to get jeans, came home and had a quiet night in alone, packing for New York."
+    },
+    {
         "date": "January 19",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Heavy",
         "description" : "Woke up, packed a little, and wrote Sofia an emotional letter. Then went over to theirs. We went to the yarn store and to get tacos. Then back to their to hang out before the Lifeguard show at Shubas. Free photo booth– lots of pictures. Caught up with Asher. Went back to sofia’s for a long talk and a sad goodbye. Home and sleep."
     },
     {
+        "date": "January 24",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Made a hearty breakfast for myself, how nice. Went to Brooklyn to drop off film, Lily came along. Then we went to bagel bros and talked for a while. Then to class– made friends with the guy sitting next to me. On the way home I ran into that person who complimented my shoes in the cafeteria yesterday. Chatted and followed each other on Instagram. Went home and ate with Elle, lazied around for a bit. Went to Cali’s to eat ramen and watch Nathan for You. Then home and sleep."
+    },
+    {
         "date": "January 26",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Woke up and went to UC for breakfast– ran into Adina on the way and chatted with her. Walked to Michael’s to get yarn for project. Then back home for lazy morning crocheting. To UC for coffee before class, ran into Tessa. Then to class, chatted with two of the kids there. Then lunch before a long studio class. After class I went to dinner at Kimmel (NYU dining hall) with Penelope. Then home and for a rest. Went out and bought a pack of cigarettes to stoop. Back home, shower. Then Elle and Adina came in and we chatted for a while."
     },
     {
+        "date": "January 31",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Heavy",
+        "description" : "Woke up early and walked over to PJ dorm to take pictures. Hung out with her and Sofie for about an hour, then went home and edited/crocheted. Went to class, then back and got more work done. Went Back to the UC to take pictures of gloves with Elle, had dinner there after. Ran into Lily and Milan and then to Cali’s. Emotional night. Things are changing. Went home, talked to Elle. Neighbors were so loud we went to talk to them, but ran into Sage and Oz in the hallway and chatted with them instead."
+    },
+    {
         "date": "February 2",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Woke up and caught up with Elle about the night before, went to get bagels with Paul and Lily. Back to take pictures for class, then to the UC for a snack (ran into Tessa again, chatted for a bit). Both classes fine/normal. Chatted with my professor about punk music after class on walk home. Went home and did work. Then Adina came over to hang with Elle and I. They tucked me in and I went to bed."
     },
     {
+        "date": "February 7",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Woke up and knit. Went to Mud to do some work– it was semi successful. Went to class, found out Pigeon got the same tattoo as me. Back from class, took photos of Elle– semi successful. Waited around for a while. Went to Chinatown with Lily to take pictures, got caught jumping the turnstile. Went home and did a little bit of work, waited for Elle, talked, and went to bed."
+    },
+    {
         "date": "February 9",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Top of the morning, went to Trader Joe’s. Then at dorm for a while before class. Ate lunch with Della and Milan between my classes. Didn’t do much in class really. Came home, then Adina came over. Hung out with her for a while, made dinner, then knit and to bed."
     },
     {
+        "date": "February 14",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Woke up early to watch movie, then to Blick again. Back to work on the window, then met Lily to take pictures off the Lorimer stop. Back, got David’s and did a bit more work. To class and back to get more stuff done. Then to Eleanor’s to take photos. Came home, worked, etc. Dropped off clothes at Sachi’s and then hung out at Cali’s for a bit. Back home to finish up project and to bed!"
+    },
+    {
         "date": "February 16",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Got bagels at David’s with Lily to discuss Montreal. Back to dorm before going to shoot photos with Cali at NYU studio. Fancy lights. Skipped class, then home to grab project and to studio to present project. Went well. Home and Adina came over to watch TV. Felt bad about Cali. Elle home and talked too. Packed for Providence and to bed."
     },
     {
+        "date": "February 21",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Went to get a nice pierogi breakfast at Veselka with Cali. Then to came over to hang with Elle and I before my class. To class and back. Spent evening finishing up video project for Time. Adina over to watch TV and help me edit. Small crisis over video, then Elle home and to bed."
+    },
+    {
         "date": "February 23",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up at Cali’s and then back home to shower. Got David’s and a Covid test. Negative. Did a bit of work before heading to class (chatted with Tessa and Ophelia in dining hall). Boring class. Lunch with Milan before studio. Met Sofie after for dinner at the UC with Paul, Martina, and Adina. Ran into Rosa among others. Got home, felt yucky, chatted with Elle."
     },
     {
+        "date": "February 28",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Up early for no reason. Still sick. Watched short movie for class and knit. Then did drawings for class. Got dressed and to class ever so briefly. Back and did work. Zoom call with my professor about project. Lazy evening here. Called Dad. Adina came over to hang out. Watched some survivor with Elle and Adina, the early night to bed."
+    },
+    {
         "date": "March 2",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Woke up and got an early start. Went to get film at Luster then left for the Guggenheim. That was a flop– ended up at the Met which was really nice. Stopped into a church on the way home. Got a bagel at Tompkins and then dropped stuff off and walked to class with Cali. Class and then home. Didn’t do anything, really. Sachi came over for dinner and catching up. Was really nice. Then Adina came over/Elle came home and we chatted for a bit. Then I went to bed."
     },
     {
+        "date": "March 7",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Made breakfast (set off fire alarm) then to work. Dropped off camera, ran into India– made plans for coffee– then to talk to professor Paul after his class (with Martina). Back to dorm briefly before QR. To class and back. Lazied around for a while. Cali came over, we talked, then she left and I did a bit of work. Then I went to Sachi’s for dinner. Chatted with Aidan and Oliver as we made dinner. Maite came later– had wine and talked for a while. Headed home. Late night with Elle doing work before sleep. "
+    },
+    {
         "date": "March 9",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Forgot this day to be honest. Knit and did a little work before going to class. Lunch with Paul/Devlin/Gigi/Will before studio. Presented photos– went over really well. Went to have dinner at the apartment with David/Shannon/Ellie. Super nice, got leftovers sent home with me. Back and hung out with Elle, and then to 2L to see Adina (+Kristen) before the trip. Then back up and to bed."
     },
     {
+        "date": "March 14",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Up and breakfast. Then met Penelope to go thrifting in Bushwick– got some hits. Home and did a bit of work. Got Kristen’s guitar from her room. Then Lily/Paul/Sachi came over for dinner. Chatted/listened to music/played Scattergories– was very sweet. Everyone but Lily left, she stayed and we played guitar together for a couple hours. Then to bed."
+    },
+    {
         "date": "March 16",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up early to make the bus to Boston out at 9:30. On bus sat next to Lily– the ride didn’t feel very long. Mostly just listened to music and looked out the window. Made it there and went to Maud’s place. Got food, then went to the Isabella Stewart Gardner museum. Wandered a bit and then got dinner (pizza). Back to Maud’s, watched Harry Potter, and then to bed."
     },
     {
+        "date": "March 21",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Up and did a little work + felting before class! Then to class briefly– tattoo time in Prospect Park afterwards! Tugboat Tattoo– cute dog and beautiful apartment. Then back home to do a little more work that I had been putting off + more felting. Adina/Ava/Kristen came by for a bit, then bed."
+    },
+    {
         "date": "March 23",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "One day out and I already am forgetting about what I did. Woke up and did some work, I’m sure. Elle made us french toast which was sweet and yummy. Then to class and back home for a check in on Zoom. Walked around and did some work for class. Then kept working until it was time to see Cali. Stooped and then hung out at hers. Slept over."
     },
     {
+        "date": "March 28",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Up and feeling gross. To Walgreen/Cvs to get prescription and medicine. Home for breakfast/reading/a bit of work on essays for NYU. Met Cali for coffee at Outro, then to class. Home after, briefly, then to shoot things for class. Chatted with Sage in the hall before walking around Alphabet City and by the river. Home and tired. Quiet evening reading/making dinner/watching TV/listening to music/drawing."
+    },
+    {
         "date": "March 30",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up early to register for classes– sort of went poorly. Elle got us David’s for breakfast. Read and did some work here. Then went to return camera, lunch at UC, and briefly chatted to to advisor (random one) about registration– all fixed. Yay Then to class, lunch with Adina after  (with Aghill and Della briefly). To class. Snack after class, ran into Maite while heading to tapestry workshop. Couldn’t find classroom– went home. Finished book and brainstormed/internet stalked. Elle home, chatted, and went to bed. "
     },
     {
+        "date": "April 4",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Woke up early to get camera– ran into Lily on the way and got breakfast with her. Home briefly before heading back out to meet Sofie for bagels at Bagel Bob’s. Sat in Wash, then met Lily and Itao in Wash for a while (Edward + others too). Then to class– boring– and home. Did some work before going to NYU dining hall with PJ (ran into Gigi on the way there). Ate in Wash. So nice after! Cali’s after (stoop) then to home and to bed. "
+    },
+    {
         "date": "April 6",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Up and did a little work. Lily over to help film something for class. Hung out here for a bit before going to class. Lunch with Eleanor, Bella, and others. Was mid– go to church next time. Then next class– was boring. Home/dinner. Then walk with Paul. Sat by the river and chatted. Felt comfortable and important. Home. Cried a lot about Levi. Lily over to hang out (Elle home for some of it). Lily home and to bed."
     },
     {
+        "date": "April 11",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Woke up early for breakfast with Paul before his 9am. Ate at UC  then walked home. Did some work at home, then to meet Cali for breakfast at Thai Diner. Yummy. Stopped into a mass on the way back– walked around and then to class. Brief. Lunch after class– meeting with Amy for studio. Back home and helped Viv shoot in our room. Talked to Mom for a bit. Then Cali over. Got snacks for movie night (ran into Itai), then watched movie. Cali home and I to bed."
+    },
+    {
         "date": "April 13",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Up/breakfast/return camera. Cali stoop– anxious still felt really bad. Then back homestill feeling bad. Met her again at some point to try sorting out. Then to class. Church stoop in between. Boring class– let out early. Home + exhausted. Then tried to hype myself up for DJ set. Went with Adina/Ava/Elle. Talked to lots of Parsons people there. Left early w/ Adina to go to Carmelo’s. ID taken! Boo! Home and to bed."
     },
     {
+        "date": "April 18",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Woke up/UC breakfast? /did work? Finished movie and then met Cali to get David’s. Back and to hand in the dorm with Cali and Elle before going to class. To Blick after class, then worked on project. Then work + dinner at deli with Adina. Watched movie then bed. "
+    },
+    {
         "date": "April 20",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Woke up + UC breakfast. Home to work on stuff (script + gargoyle), then to class. Stooped/David’s with Cali before she left for the weekend. Zoom check in with Amy. Then Maite/Sachi/Adina over to felt (Ava + Elle briefly). Then to bed."
     },
     {
+        "date": "April 25",
+        "day": "Tuesday",
+        "location": "New York",
+        "weight": "Light",
+        "description" : "Up and to UC for breakfast. Dropped off film with Lily and Itai, then back to do work in the library before class. Back after, work more, then Cali over to do work together and eat dinner. Then she went home and I to bed."
+    },
+    {
         "date": "April 27",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Up and to work! Went to get David’s for me and Elle, then UC lunch with Adina/Ava/Anders. Home to shoot before classes. Guest speaker in studio– Dean Haspies. Dinner at NYU dining hall with Penelope after. Then home. Felt like shit. Talked to Adina/Elle in the room for a bit before bed."
     },
     {
+        "date": "May 2",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "May 4",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Finally got a good sleep in. David’s with Elle and Adina. Worked on gargoyle, then coffee with Itai and Lily. Went to UC for lunch, ran into Paul. Class boring. Home to rest + Zoom check in, then back to school for dinner w/ Adina (+ Luna briefly!). Library w/ Adina (did work + goofed off). Home briefly, ten to a restaurant/bar with Adina and her parents (BJ Novak spotting…). Talked to her dad about music. So awesome. Home + to bed."
     },
     {
+        "date": "May 9",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "May 11",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up and to the UC for breakfast– then went to Cali’s to get some work done! Productive. Went home, then went to school with the gargoyle! Class (QR)– final presentation (mid). Then early to studio to fix the gargoyle. Critique during class (went well)– then dinner at dining hall with Adina. Home– hang with Adina/Della/Ava/Lily/Elle/Freida in 2L. Then to bed."
     },
     {
+        "date": "May 16",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "May 18",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up at Shannon/David’s– breakfast/chat with Aunt Shannon before ubering to airport w/ Elle! A goodbye with her before getting on the plane. Uneventful ride home– met mom to take train home w/ all my baggage. Then home + dinner! Drove to pick up Cali to get ice cream. Then home + to bed."
     },
     {
+        "date": "May 23",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "May 25",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Heavy",
         "description" : "Up and met Cali at the Apple Store, lol. Some tension there, then back to hers (stopped at First Slice again). Hung around and watched 500 Days of Summer. Then back to mine w/ her to change. Then to Lincoln Hall for Hallogallo Fest! Chatted w/ Eli, Pigeon, PJ, Clare, Braeden, etc. Lifeguard and otters played– awesome. To Jeni’s after with those guys + Lifeguard. Cali drove many home, then me. Then to bed!"
     },
     {
+        "date": "May 30",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "June 1",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Up and to the train! Dropped off key at Theo’s then met Cali at First Slice. Got snacks and got mat from hers, then went to Montrose Beach. Camped out there + read/chatted for a while. Then home + work + knit. To bed."
     },
     {
+        "date": "June 6",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "June 8",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Heavy",
         "description" : "Up and to work as per usual. Then went to Mrs. Reade’s retirement party– very emotional for some reason? Chatted with Eleanor Brady, Mrs. Terrasi, Ms. Bax, and Mrs. Reade. Then to pottery for open studio. Came back home and then Cali came over for a movie. Drove her home (tense) and then back/bed."
     },
     {
+        "date": "June 13",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "June 15",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Up + work. Then went to Cali’s to hang + watch terrible reality show. Got Banh-mi. Then home/dinner, talked to Dad, watched TV/knit with Mom, bed."
     },
     {
+        "date": "June 20",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
+        "date": "June 22",
+        "day": "Thursday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
+        "date": "June 27",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "June 29",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Totally forgot what happened this day– went to pottery to trim my pieces. Did work, etc. Then home/dinner, talked to Dad, watched TV/knit with Mom, bed."
     },
     {
+        "date": "July 4",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "July 6",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Dad left early to go to Maine (Nanny + Pop Pop) – said goodbye. Then breakfast + work. Biked to a few places to try to find Cali gift but to no avail. Got film and lunch (for Mom and I). Home + lazied around– had productive day doing chores/etc. Watched TV a lot in the evening, felt blah. Dinner + TV with mom, bed."
     },
     {
+        "date": "July 11",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "July 13",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Days passing quickly. What did I do today… I worked and played guitar as I do but not sure what else otherwise. Dinner (ordered in) with Dad and Katy… then drive to pick up Clare from work. Her work ran late so I wandered around Wicker Park killing time. Then we drove to Annika’s to meet her/Liv/Steven/Amelia/Theo. Went to lake– we got in spontaneously and swam in our underwear. Then back to Annika’s. Drove Liv home, then me home."
     },
     {
+        "date": "July 18",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "July 20",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Heavy",
         "description" : "Anxious day. Did work, called Cali. Tried to go to Clare’s but my way of getting there got messed up and I devolved into an anxiety attack so i just went home. Called Lily on the way back which made me feel better. Walked Charlie, did work, bed."
     },
     {
+        "date": "July 25",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "July 27",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Up and for a run. Then a tad bit of work before heading to Ari’s to hang/work together. Went to Target/grocery shopping with them. Then home/hang/more work. Nothing else today I can remember. "
     },
     {
+        "date": "August 1",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "August 3",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Up very early to go to the dentist. Spent a while there (just slow moving), but talked to the woman working behind the desk about New York and sports. The dentist’s daughter and I have mutuals in New York. Then home + work. Slow afternoon. Took the train up to Kimball thrift for one last trip before I go back to New York. Home, work, dinner, Mom back from Lolla, we watched TV, bed."
+    },
+    {
+        "date": "August 8",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
     },
     {
         "date": "August 10",
@@ -186,124 +447,281 @@
         "description" : "More running around to get things. Started at Cali’s– got a bagel for breakfast. Got my bed frame and night stand. Mattress delivered as well. Got a terrible falafel sandwich for dinner. Nothing too remarkable today. Slept at Cali’s."
     },
     {
+        "date": "August 15",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "August 17",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up and unsure what. Went to Cali’s to hang before she had to go to work. Chatted with Julia’s friend Zoe, watched video essay, and went to the deli to get a snack. I went home and she went to work. Lily arrived at the apartment. Caught up with her which was nice, then we all went to Muji. Home, ate dinner on our floor– how sweet. Then I hung around until Cali got done with work. Went to hers to spend the night. Bed."
     },
     {
+        "date": "August 22",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "August 24",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Woke up to rain– beach day cancelled. Did a but of work before going to meet Cali for bagels by her place. Then we took the train up to the Moma and spent a couple hours wandering around there. Was lovely! Back to hers– talked about our friendships with other people which quickly devolved into me having an anxiety attack. Calmed down and we both headed to my place. I did work and we listened to a (true crime) podcast. Anderson + Sarah over briefly. Then Cali and I hung for a bit longer before she left for Pigeon’s. I did work and ate dinner, then Lily got home and we played guitar together for a while. Bed."
     },
     {
+        "date": "August 29",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "August 31",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Woke up and went to Cali’s to drop off stuff. Weird vibe. Talked for a second, still weird. Then home + breakfast (+therapy set up). Back to Manhattan to do risograph orientation. Sat outside school, called Clare for a bit, killing time before dermatologist appointment. Ran into Mick on the way there, very sweet! Then the derm. Rain into Gigi/Oliver on the way back. Then home, did some work. Chatted with Lily and Cabe came over briefly. They left. Paul came over. We caught up and made coffee. Lily back briefly, talked with Paul, then she left again. I made dinner for Paul and I which was really lovely. Had a wonderful time. Freida, Adina, Della, Ava (+Lily/Elle) over (Paul left). Chatted, played bananagrams, made silly song for Della. Bed!"
     },
     {
+        "date": "September 5",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "September 7",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Day off I spent most of the day inside doing work or putting said work off. Worked on silly Space project, did readings, etc. Called Theo on the way to Bakeri, was nice to catch up with him. Then I got focaccia for Paul and I! Met him at his place and then walked to the park to eat it. Went back to his to hang for a bit, then I went home to make dinner. Can’t remember much of anything else that happened. Lily came back from her crazy date, she filled me in."
     },
     {
+        "date": "September 12",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "September 14",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Woke up at Cali’s, then headed home for quick intake meeting for therapy. Laundry, some homework, some work. Lazied around, then Cali over. We talked for a bit (+fashion show for party tomorrow). Then we went to get fun fish ice cream. Then to Spectacle to see movie. Was good, director was great + really nice. Home, heavy chat about her tendency to talk about other people (what fun!). Then talked to Lily about it when she got home. Bed."
     },
     {
+        "date": "September 19",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "September 21",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up w/ Cali, slow little morning before she left for class. Then I made breakfast and went to get tattoo! Flower (peony) on my arm. Hand poked, covered up the tooth. 6 hour session! But was good, didn’t feel crazy long. Went home after, made dinner and rested for a bit. Then met Cali at Irving Plaza to see Melt Banana! Had some beers in the park first to kill some time. Awesome show, was very fun. Downsides was not much of the instrumentation was live and a shorted set because they were opening. Went home after (parted ways with Cali). Ran into Ezra (chatted for a second). Bed."
     },
     {
+        "date": "September 26",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "September 28",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Had a sweet little morning in with Lily and Elle. Went to Paul’s to hang and mend pants. Then home and Cali over to do interviews for her class about her– was tough to do given everything. Lily’s bandmates– Riley and Ava– came over to practice. Listened to them. Then went to Slowdive. First time going to a show alone– felt so normal. Left before the encore– ran into Lulu on the train back. Then home/bed."
     },
     {
+        "date": "October 3",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "October 5",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Up and a sort of numb feeling about Cali. A sense of relief. Maybe a sign the break should be official. Talked to Lily for a while, then met Paul and went to the park. Sat up on the rock, then the beach as I sewed. Talked about Cali and Lily. Then home to get the nice light to shoot Lily in. Adina over (she + Elle brought me coffee)! Had a quick shoot, then everyone gone after a bit. Lily brought Gigi over briefly. Lol. Worked on my gloves for a bit. Then went to Black Spring to help Itai buy stuff for the event that night. Filled in him about what was happening. Then home to do a little more work. Then back to Black Spring for a poetry night. Was lovely, talked to Tess a lot, it was really nice and a good moment for our friendship. Talked to Devin and Alex too, etc. Then Tess and I walked home– they needed to charge their phone. Martina was over for dinner with Lily, all four of us hung out for a while. Tess left– I talked with Martina and Lily for a bit after– again, a really nice conversation. Then bed."
     },
     {
+        "date": "October 10",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "October 12",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Big day. Got up, breakfast. Then straight to doing homework to keep my mind busy. Was pretty productive. Then got ready– scary. Met Cali in Tompkins. We talked for a long time (+ran into Pigeon). We broke up. Was so emotional and sad. Hard to tell if it was the right decision– seeing her made it so hard. I love her a lot, missed her a lot over that week break. It was really nice to see her. Feeling conflicted. Went home. Spent a lot of time on Instagram. Paul + Lily came over for a debrief and dinner which was nice. Sent them away (kindly) and spent some time alone. Was so exhausted so I went to bed early."
     },
     {
+        "date": "October 17",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "October 19",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Thursday day off. Up and did some work, stopped by the post office, then met Ari to climb. Was fun, we also lifted for a second. Then got tacos + took train. I went to print, they went to meet Leni. I printed posters for class (big! 27x39in). Then to Bushwick to try on climbing shoes (no luck). Then home. Did a little work, then when to Paul’s to meet Sam! Talked with them (+Lily) over dinner, then went home and to bed. Exhausted."
     },
     {
+        "date": "October 24",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "October 26",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Spent the morning in, I think. Watched videos for class while carving a spoon out of wood. Lazied around some more, then went to the pottery studio. Very successful throws! Yay! Met Sachi after, walked around and got tacos. Then met up with Oliver + got ice cream. Then to Tess’s play at NYU! Was so sweet and funny. Talked to Tess + Julia a bit after, then took the train home. Talked with Elle and Lily. Bed."
     },
     {
+        "date": "October 31",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "November 2",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Woke up and got ready to go climbing. Got a few things at Walgreens first– then climb. Went alone which was nice. Got a few things I was stuck on. Did a quick workout after, then home. Talked to Lily, made breakfast, then wasted away in the apartment. Did all of my studio homework, played guitar/etc in between. Then went to Black Spring for the Stepford Wives/Itai + Devin/Kippers show. Scene feels good, more genuine. Tess came, hung with them + Sachi + Sachi’s friend Mavis. Also talked to Vivek- Vice guy. Sort of networked but it felt more real. Fun show, talked to Cabe/June after. Then headed home with Lily, had a snack with her and Elle, then bed."
     },
     {
+        "date": "November 7",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "November 9",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Day off! Up and went for a run which felt nice. Home and hang, then went to the UC for lunch. Ate with Cabe, Ava, and Ava’s friend Lola. Then to the wood shop. Roman + Hannah there. Did work, then went to the walkout for Palestine for about an hour. Back to the wood shop to finish up, then went home. Talked to Lily and made dinner, then to Sachi’s. Talked to them/McKenna before Sachi/I walked to the show. Chatted with Hank, Itai, Mavis, Penelope, Pigeon, etc. Gluepot (Fergus) played, then Autobahn, then Horsegirl. All had awesome sets. Meandered for a bit after, walked Sachi home, then went to a bar with Tess, Natalie, Itai, June, Cabe, Pigeon, Oliver, etc. Pigeon gave me the movie to edit! Scary but exciting. IItai tried to take it but I wouldn’t let him. Uber home, quick debrief with Elle and Lily, then bed."
     },
     {
+        "date": "November 14",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "November 16",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Woke up, made breakfast, and then to climb! Went with Cameron and his friend/roommate Aeven. She’s super nice and easy to be around. Ran into Rob too, his introduced us to his friend Carrie. I went home after a fun climb. Spent the day at home doing work, playing guitar, etc. Made myself dinner and ate it on the roof during sunset. Cleaned up and then went to school. Did a small bit of homework before going to Paul’s class to say hello! Was really nice to see him and catch up. Saw Cameron, Clyde, and Luna’s paintings (all in his class). Met Martina and took the train back home together for the last night of Elle’s performance thing. Super low energy tonight, the vibe was mid. Had a really nice conversation with Addie, though. Spent some time talking to Tao which was nice. Went to my room before everyone had left (maybe a weird move but oh well) and just phoned until the place had cleared out and I could sleep."
     },
     {
+        "date": "November 21",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "November 23",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Heavy",
         "description" : "Woke up and called dad to see if I should go on the plane given my fever. Briskly walked to get a Covid test– got home and Lily/I both took one. Negative. We both left in a rush– me to the airport and her to the train. Made it with plenty of time to spare (both of us). Felt normal– not really that sick– I really didn’t want to stay in New York. Normal flight to Cincinnati. Tilled a couple hours there doing homework, then my dear family picked me up. Drove to Kentucky and then rested at the hotel before going to Aunt Sheila’s for a bit. Chatted there with her/Uncle Tom, then met everyone at a restaurant for dinner. Kids table– me, Teddie, Katy, Sam, Ellie, Kit, James, Mimi. Had a sweet dinner, then back to the hotel, bed."
     },
     {
+        "date": "November 28",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "November 30",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Day off! Got up and ready to make myself feel the most productive. Really just spent all day at home getting homework done– felt awesome and productive. Finished reading my book which also felt great. Paul came to hang and do work. I cooked us dinner. Was nice to spend time with him and catch up– had been a while. Then he left, Lily came home, and we hung out for a while. Then bed!"
     },
     {
+        "date": "December 5",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
+    {
         "date": "December 7",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Day off! Up and had a nice morning with Lily + Elle. Had to dye my fabric twice more to get it to work, but finally got there. Did some work on my essay during the time waiting. Then I went to school. Got a walk in appointment and laser cut the cover of my book! Then to the woodshop briefly to do some work on my Space project– was super chaotic so I didn’t stay for long. Then home. Just hung out for a while. Played guitar. Then to Penelope’s! Made dinner and caught up. Was really nice– I hadn’t seen her for a while and Fergus had just gone back to Australia. Went home after a couple hours, chatted with Lily, then bed."
     },
-
+    {
+        "date": "December 12",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
     {
         "date": "December 14",
+        "day": "Thursday",
         "location": "New York",
         "weight": "Light",
         "description" : "Up and went climbing? So it seems. Went with Tao– was fun but I didn’t get my project…boo. Then picked up my negatives from Contact Photo, then walked home. Took a little under an hour– had a really nice time, listened to the playlist Penelope made me. The weather was nice and I felt very happy + grateful. Then got home, started organizing my film, took a quick shower, and left with Lily to walk to the riverfront. Stopped by Bakeri, then sat in the park for a little. She went to class, I kept walking around. Walked to McCarren and watched everyone on the track/field for a bit. Walked home, cleaned up my room, and submitted my final thing (essay)! Elle home, then we took the train to Canal Street Market where we met Adina, Lily, Ava, Della, and Frieda. Ate then walked back to Adina’s.  Hung out there, talking and playing Scattergories. I left after a couple hours and met Elliot, Cameron, and Aeven at Birdy’s. Had a few drinks there, we talked for a while. Elliot left early. Cameron, Aeven, and I stayed, talking and playing fusball with this guy. Then I took the train home, called Katy on my walk back from the train. Bed."
     },
-
+    {
+        "date": "December 19",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
     {
         "date": "December 21",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Really didn’t do much of anything all morning. Was too nervous in anticipation of seeing Sofia. Just knit, watched TV, and worked on my portfolio. Then biked over to theirs in the afternoon. Hung on their couch for hours, talked about our feelings, etc. It was so lovely. I am a bit in shambles over it. Then eventually pulled myself away to bike home. Ate dinner and went to Clare’s for presentation night! Presentations about the semester at college from all (Theo, Steven, Annika, Penelope, Clare, Guin, Amelia, Olivia, and I). Was so sweet. Then Uber home + bed."
     },
-
+    {
+        "date": "December 26",
+        "day": "Tuesday",
+        "location": "",
+        "weight": "",
+        "description" : ""
+    },
     {
         "date": "December 28",
+        "day": "Thursday",
         "location": "Chicago",
         "weight": "Light",
         "description" : "Up + climb. Got some good ones today. Then home/shower/rest before taking the bus over to Ari’s. Talked there for a while, got some new boots from the pile of stuff their mom was giving away. Then we walked to a coffee shop nearby and hung there for a bit. Then I went home. Worked more on Adina’s poster. Then to bed, presumably."

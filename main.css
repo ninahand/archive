@@ -28,7 +28,6 @@ html{
 body{
     font-size: 1.6rem;
     margin: 0;
-    margin-left: -1;
     padding: 5rem;
 }
 
@@ -51,7 +50,7 @@ main{
     color: #D9D9D9;
     font-family: 'easebold';
     font-size: 22rem;
-    animation: fadeIn 2s ease-in forwards, textColorChangeGray 300s infinite;
+    animation: fadeIn 2s ease-in forwards, textColorChangeGray 600s infinite;
   
 }
 
@@ -111,7 +110,7 @@ main{
 
 .description{
     font-family: 'easereg';
-    line-height: 0.7rem;
+    line-height: 0.8rem;
     font-size: 0.7rem;
     padding-bottom: 2rem;
     overflow-x: hidden;
@@ -137,6 +136,9 @@ body {
     color: #FFFFFF;
     animation: backgroundColorChange 300s infinite;
 
+}
+.description:hover{
+   font-size: 4rem;
 }
 
 @keyframes backgroundColorChange {
@@ -164,22 +166,32 @@ body {
 
 
 
-@media screen and (max-width: 499px){
+@media screen and (max-width: 480px){
     .button-container button {
         font-size: 1rem;
     }
-   .description, .date{
+   .description, .date, .footer{
     font-size: 0.8rem;
     line-height: 1rem;
    }
    .heading{
-    font-size: 5rem
+    font-size: 5rem;
+    position: relative;
    }
    .heading-container{
-    padding-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4rem;
     width: 90vw;
+    height: auto;
+    padding-left: 0.3rem;
    }
-   .description-container, .button-container{
-    width: 85vw;
+   .button-container{
+    width: 80vw; 
+    display: flex;
+
+   }
+   .description-container{
+    grid-template-columns: repeat(2, 1fr);
    }
 }

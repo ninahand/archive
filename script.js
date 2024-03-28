@@ -1,5 +1,6 @@
 let allLocations = []
 let allWeights = []
+let allDays = []
 let buttonContainer = document.querySelector(".button-container")
 let descriptionContainer = document.querySelector(".description-container")
 
@@ -14,6 +15,9 @@ document.addEventListener("DOMContentLoaded", function() {
             if(!allLocations.includes(item.location) && item.location){
                 allLocations.push(item.location)
             }
+            if(!allDays.includes(item.day) && item.day){
+                allDays.push(item.day)
+            }
         
             let dateDescriptionWrapper = document.createElement("div"); 
             dateDescriptionWrapper.classList.add("date-description-wrapper");
@@ -26,6 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
             description.innerText = item.description;
             description.setAttribute("data-weight", item.weight);
             description.setAttribute("data-location", item.location);
+            description.setAttribute("data-day", item.day)
             description.classList.add("description");
             
             dateDescriptionWrapper.appendChild(date); 
@@ -68,6 +73,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     if (description.dataset.weight == buttonWeight){
                         description.classList.remove("hidden")
                         allDates[index].classList.remove("hidden")
+
                     }
                     else{
                         description.classList.add("hidden")
@@ -77,6 +83,30 @@ document.addEventListener("DOMContentLoaded", function() {
             })
         })
 
+        allDays.forEach((day, index) => {
+            let dayButton = document.createElement("button");
+            dayButton.innerText = day;
+            dayButton.setAttribute("data-day", day);
+            buttonContainer.append(dayButton);
+        
+            dayButton.addEventListener("click", (e) => {
+                let buttonDay = e.target.dataset.day;
+                let allDescriptions = document.querySelectorAll(".description");
+                let allDates = document.querySelectorAll(".date");
+                allDescriptions.forEach((description, index) => {
+                    if (description.dataset.day == buttonDay) {
+                        description.classList.remove("hidden");
+                        allDates[index].classList.remove("hidden");
+                     
+                    } else {
+
+                        description.classList.add("hidden");
+                        allDates[index].classList.add("hidden");
+                    }
+                });
+            });
+        });
+ 
         allLocations.forEach((location, index)=>{ 
             let locationButton = document.createElement("button")
             locationButton.innerText = location
@@ -84,12 +114,10 @@ document.addEventListener("DOMContentLoaded", function() {
             buttonContainer.append(locationButton)
 
             locationButton.addEventListener("click", (e)=>{
-                console.log(e.target.dataset.location)
                 let buttonLocation = e.target.dataset.location
                 let allDescriptions = document.querySelectorAll(".description")
                 let allDates = document.querySelectorAll(".date");
                 allDescriptions.forEach((description, index)=>{
-                    console.log(description)
                     if (description.dataset.location == buttonLocation){
                         description.classList.remove("hidden")
                         allDates[index].classList.remove("hidden")
@@ -132,28 +160,19 @@ document.addEventListener("DOMContentLoaded", function() {
     
 });
 
-// Function to generate random text
-function generateRandomText() {
-    var texts = ["January 5", "January 12", "January 19", "January 26", "February 2"]; // Array of possible texts
-    return texts[Math.floor(Math.random() * texts.length)]; // Randomly select a text
+function generateDate() {
+    var texts = ["January 5", "January 12", "January 19", "January 26", "February 2"]; 
+    return texts[Math.floor(Math.random() * texts.length)]; 
 }
 
-// Function to update button text
-function updateButtonText() {
-    var button = document.getElementById("changeButton");
-    button.innerHTML = generateRandomText();
+function changeChaosText() {
+    var button = document.getElementById("chaosButton");
+    button.innerHTML = generateDate();
 }
 
-// Function to handle button click
-function handleClick() {
-    clearInterval(interval); // Stop text change interval
-    // Do something else here
-}
 
-// Attach event listener to button
-document.getElementById("changeButton").addEventListener("click", handleClick);
+var interval = setInterval(changeChaosText, 300); 
 
-// Start changing text at intervals
-var interval = setInterval(updateButtonText, 300); // Change text every second
+document.getElementById("chaosButton").addEventListener("click", userClick);
 
-//weightButton.dataset.weight = weight
+
